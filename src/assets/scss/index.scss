@@ -1,0 +1,14 @@
+@import "~antd/dist/antd.css";
+@import "variables";
+@import "create";
+@import "home";
+@import "view";
+@import "delete";
+@import "update";
+
+.app{
+  // background-color: $purple;
+  height:100vh;
+  flex: 1;
+  overflow: auto;
+}
